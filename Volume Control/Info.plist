@@ -41,5 +41,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>To read your music data</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>To get your speed</string>
 </dict>
 </plist>
